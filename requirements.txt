@@ -1,0 +1,35 @@
+# Core Environment
+jupyter
+notebook
+ipykernel
+tqdm
+pyyaml
+
+# Data Processing and Scientific Computing
+numpy
+pandas
+scipy
+openpyxl  # Required to read .xlsx files (Included in the dataset)
+
+# EEG Signal Processing and Analysis Core Library
+mne
+
+# Machine Learning (ML) and Classification
+scikit-learn
+statsmodels # Useful for statistical analyses (ANOVA, t-test, etc.)
+
+# Advanced Deep Learning (DL) or Structural Models (Optional)
+#tensorflow
+keras
+torch # pytorch
+torch-summary
+
+# Visualization and Interpretability (XAI)
+matplotlib
+seaborn
+pandas-profiling # For quick exploratory data analysis (EDA)
+plotly # Useful for interactive visualizations
+shap # Definitely add this if you plan to use XAI (Explainable AI).
+notebook-as-pdf # To export Jupyter Notebooks as PDF files
+nbformat # For working with Jupyter Notebook file formats
+nbconvert # For converting Jupyter Notebooks to other formats
