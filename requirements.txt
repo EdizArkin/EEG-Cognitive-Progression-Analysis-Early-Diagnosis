@@ -9,6 +9,7 @@ pyyaml
 numpy
 pandas
 scipy
+pingouin
 openpyxl  # Required to read .xlsx files (Included in the dataset)
 
 # EEG Signal Processing and Analysis Core Library
