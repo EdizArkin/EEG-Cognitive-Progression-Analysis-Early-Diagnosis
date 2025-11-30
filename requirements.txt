@@ -21,6 +21,7 @@ statsmodels # Useful for statistical analyses (ANOVA, t-test, etc.)
 
 # Advanced Deep Learning (DL) or Structural Models (Optional)
 #tensorflow
+xgboost
 keras
 torch # pytorch
 torch-summary
